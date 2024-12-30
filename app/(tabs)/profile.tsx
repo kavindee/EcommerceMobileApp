@@ -6,7 +6,7 @@ type Props = {}
 const ProfileScreen = (props: Props) => {
   return (
     <View style={styles.container}>
-      <Text>Profile Screen</Text>
+      <Text>Profile Screen kavin</Text>
     </View>
   )
 }
